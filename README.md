@@ -1,15 +1,15 @@
 MOLPay in-page payment library
 ===============================
 
-MOLPay in-page payment is inovative way to ensure much better experience for customer to make an online payment.  
-This library is needed for merchant to implement in-page payment without to much hassel.
+MOLPay in-page payment is an inovative way to ensure much better checkout experience for customer to make payment.  
+This library is required for merchant to implement in-page payment without too much hassle.
 
-We will provide 2 version. The PHP version (To PHP powered shopping cart) and the javascript.
+We provide 2 integration approaches. PHP and JavaScript.
 
 Requirement
 -----------
-- PHP version 5.3 above
-- Self develop shopping cart
+- PHP version 5.3 above (for PHP approach only)
+- Self-developed or opensource shopping cart (for both PHP & JS approaches)
 
 
 Docs
