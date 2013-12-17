@@ -1,9 +1,9 @@
-MOLPay in-page payment library
+MOLPay in-page payment PHP library
 ===============================
 
-MOLPay in-page payment full template PHP classes is MOLPay in-page library that will output full HTML markup when the library were initialize and set.
+MOLPay in-page payment PHP library is a library that allowing developer to implement MOLPay in-page with easy and faster to deploy.
 
-This allowing a fast deploy time for using MOLPay in-page payment.
+It will generate the MOLPay in-page together with the corresponding API to MOLPay payment page by using PHP chain method for more readability and easy to maintenance.
 
 Installation
 -------------
@@ -105,4 +105,4 @@ Output the generated HTML markup to your selected page.
 
 ## Library API
 
-[Library API documentation]()
+[Library API documentation](https://github.com/MOLPay/MOLPay_in-page_docs/blob/master/API.md)
