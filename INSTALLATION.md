@@ -103,6 +103,11 @@ Output the generated HTML markup to your selected page.
 </html>
 ```
 
-## Library API
+Notes
+-----
+You can refer to the example code
+
+Library API
+------------
 
 [Library API documentation](https://github.com/MOLPay/MOLPay_in-page_docs/blob/master/API.md)
