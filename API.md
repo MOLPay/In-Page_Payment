@@ -57,6 +57,10 @@ $user_details = array(
 - `params` | string | The language code *Default : `en`
 
 
+`setPaymentMethod( params )`
+- `params` | string | Assign default payment channel *Default : `null`
+
+
 `setPageTitle( params )`
 - `params` | string | Page title, ONLY if you enable full HTML template *Default : `MOLPay Malaysia Online Payment Gateway`
 
