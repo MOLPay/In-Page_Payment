@@ -3,8 +3,6 @@ MOLPay in-page payment Javascript library
 
 MOLPay in-page payment Javascript library is a library that allowing developer to implement MOLPay in-page with easy and faster to deploy.
 
-It will generate the MOLPay in-page together with the corresponding API to MOLPay payment page by using PHP chain method for more readability and easy to maintenance.
-
 Instruction to deploy
 ---------------------
 
