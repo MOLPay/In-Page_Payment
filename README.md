@@ -14,8 +14,13 @@ Requirement
 
 Docs
 -------------
-[Javascript library]()  
+[Javascript library](https://github.com/MOLPay/In-Page_Payment/blob/master/INSTALLATION2.md)  
 [PHP library](https://github.com/MOLPay/In-Page_Payment/blob/master/INSTALLATION.md)
+
+
+Example
+--------------
+You can refer to example code
 
 
 Support

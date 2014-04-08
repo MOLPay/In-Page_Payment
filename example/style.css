@@ -1,0 +1,29 @@
+/*
+Stylesheet for demo only.
+*/
+body {
+    background: #efebeb;
+    font-family: Optima, Segoe, “Segoe UI”, Candara, Calibri, Arial, sans-serif;
+    font-size: 14px;
+}
+.topic-header {
+    width: 100%;
+    border-bottom: 1px solid #8e8e8e;
+    margin-bottom: 20px;
+}
+.topic-header h2 {
+    color: #272727;
+    font-size: 24px;
+}
+h3 {
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+}
+.topic {
+    font-size: 16px;
+}
