@@ -168,7 +168,7 @@ class InpageMolpay {
      * @return \MOLPay\distribution\InpageMolpay
      */
     function setPageTitle( $page_title ) {
-        return $this->page_title = $page_title;
+        $this->page_title = $page_title;
         return $this;
     }
     
