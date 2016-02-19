@@ -1,3 +1,5 @@
+
+WARNING!
 Please be informed that this library has been obsoleted and marked as End-of-Life product. 
 Kindly refer the latest In-page checkout integration.
 
