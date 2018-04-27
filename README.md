@@ -5,9 +5,10 @@ WARNING!
 
 Kindly refer the latest In-page checkout integration.</h3>
 
+<img src="https://user-images.githubusercontent.com/38641542/39343453-6726cf3c-4a0f-11e8-978f-cd0e83b411d8.jpg">
+
 [In-page Checkout](https://github.com/MOLPay/Inpage_Checkout)
 
-<img src="https://user-images.githubusercontent.com/38641542/39343453-6726cf3c-4a0f-11e8-978f-cd0e83b411d8.jpg">
 ------------------------------------------------------
 
 
